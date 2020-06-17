@@ -1,7 +1,7 @@
 <h1 align="center"> Ecoleta - Mobile </h1> 
 
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./src/assets/layout.jpg" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/layout.jpg" />
 </h1>
 
 <h4 align="center"> This project was developed in the event Next Level Week (NLW) 1, organized by
